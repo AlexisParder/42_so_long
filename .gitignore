@@ -1,0 +1,7 @@
+*.o
+so_long
+so_long_bonus
+libmlx_Linux.a
+libmlx.a
+mlx-test
+libft.a
